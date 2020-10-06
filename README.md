@@ -1,2 +1,5 @@
 # hello-world
-First step to learn Git and Github.
+
+Hi all,
+
+This is my first project on GitHub.
